@@ -1,0 +1,28 @@
+h3{
+    color:red;
+}
+body {
+    background-color: #dddfe0!important;
+}
+.dp{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    margin-left:auto;
+    margin-right:auto;
+}
+.txt{
+    text-align:center;
+}
+ul{
+    padding=0;
+    list-style-type:none;
+}
+.social_link ul,li{
+    list-style-type:none;
+    display:inline-block;
+}
+.social{
+    width:25px;
+    height:25px;
+}
